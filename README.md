@@ -25,3 +25,4 @@ npm run dev
 ```sh
 npm run build
 ```
+### Demo[https://olhayevstifieieva.github.io/Vue-organizer-app/]
